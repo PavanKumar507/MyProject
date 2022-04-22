@@ -9,13 +9,13 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.shop.testcases.EndToEndTEst" />
-			<class name="com.shop.testcases.AccountCreationPageTest" />
+		<!-- 	<class name="com.shop.testcases.AccountCreationPageTest" />
 			<class name="com.shop.testcases.OrderPageTest" /> 
 			<class name="com.shop.testcases.LoginPageTest" />
 			 <class name="com.shop.testcases.HomePageTest" />
 			<class name="com.shop.testcases.IndexPageTest" />
 			<class name="com.shop.testcases.SearchResultPageTest" />
-			<class name="com.shop.testcases.AddToCartPageTest" /> 
+			<class name="com.shop.testcases.AddToCartPageTest" />  -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
